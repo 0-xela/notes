@@ -13,3 +13,5 @@ with an additional integral for each dimension in the problem
 
 Now as a function of velocity
 $$W=\int mvdv$$
+### Work done by a constant force making a displacement $\vec{S}$
+$$W=\vec{F}*\vec{S}=FS\cos \phi$$

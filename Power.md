@@ -1,5 +1,5 @@
 #electronics #physics 
-# Power is the rate [[Energy]] is expended, measured in [[Watt]]
+# Power is the rate [[Work]] is done, its a [[Scalar]]
 ### Equation
 $$Power=\frac{Work}{Time}=\frac{W}{T}$$
 P = Power in [[Watt]]
@@ -14,3 +14,4 @@ P = Power in [[Watt]]
 I = [[Current]] in [[Ampere]]
 V = [[Volts]]
 R = [[Resistance]] in [[Ohms]]
+# Power is the rate [[Energy]] is expended, measured in [[Watt]]
