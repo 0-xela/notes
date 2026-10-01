@@ -4,7 +4,8 @@ Newtons second law
 $$\sum\tau=I\alpha$$
 I = [[Rotational Inertia]]
 Torque is the [[Cross Product]] of $f$ and $d$
-$$\tau=F*d$$
+$$\tau=F \times d$$
+$$\vec{\tau}=\vec{r} \vec{\times}\vec{F}=(rF\sin(\theta))\hat{n}$$
 $\tau$ = torque, Nm
 $F$ = force, N
 d = distance m from the center of rotation
