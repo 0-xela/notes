@@ -1,4 +1,5 @@
-#physics 
+#physics #ph1120
+
 # A prediction of [[Force]]
 ## Based on three things
 - Type of [[Charge]] (+/-)
@@ -7,19 +8,26 @@
 
 ## Measured in [[Newtons|N]]/[[Coulomb|C]]
 - How many [[Newtons]] of [[Force]] you get for a [[Charge]] 
+- also measured in [[Volts]]/[[Meter]]
 
 ## Equation
 ### Known Test charge
-$$E=\frac{F}{q_0}$$
+$$\vec{E}=\frac{\vec{F}}{q_0}$$
 E = [[Electric Fields|Electric Field]]
 F = [[Force]]
 $q_0$ = Test charge ([[Coulomb|C]])
 
 ### Can also be written
-$$F=q_0E$$
+$$\vec{F}=q_0\vec{E}$$
 
 ### Known Source Charge
-$$E=k\frac{q_s}{d^2}$$
+$$\vec{E}=k\frac{q_s}{r^2}\hat{r}$$
 E = [[Electric Fields|Electric Field]]
 $q_s$ = Source charge ([[Coulomb|C]])
-d = Distance ([[Meter|M]])
+r = Distance ([[Meter|M]])
+
+# The magnitude of a field $q$ at distance $r$
+$$E=\frac{{k|q|}}{r^2}$$
+# Always radially in or radially away from charge
+- Away from +
+- Towards -
