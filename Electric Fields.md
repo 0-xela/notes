@@ -9,6 +9,9 @@
 ## Measured in [[Newtons|N]]/[[Coulomb|C]]
 - How many [[Newtons]] of [[Force]] you get for a [[Charge]] 
 - also measured in [[Volts]]/[[Meter]]
+[[https://en.wikipedia.org/wiki/Elementary_charge|Elementary Charge]]
+
+$$\epsilon_{0} = 1.6*10^{-19}$$
 
 ## Equation
 ### Known Test charge
