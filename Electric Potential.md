@@ -3,9 +3,11 @@
 ### When you remove a charge from [[Electric Potential Energy]]
 ### Equation
 $$EP = V = k\frac{q_s}{r}$$
+$$V(r)=\frac{1}{r\pi \epsilon_{0}} \frac{q}{r}$$
 V = [[Volts]] or [[Joule]] / [[Coulomb]]
 q = [[Charge]]
 r = Distance [[Meter]]
+
 ### Also scalar, no direction
 ### We generally care about the $\Delta$, a prediction of how much energy is needed to move between two points
 $$\Delta V = V_f-V_i$$
