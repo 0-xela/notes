@@ -1,4 +1,4 @@
-#electronics #ph1120 
+#electronics #ph1121 
 $$\phi_{E}=\vec{E} * \vec{A}=EA\cos(\theta)$$
 $\vec{A}$ magnitude is the area of the surface, direction is perpendicular to the plane of the surface
 Unit is $\frac{N*m^2}{C}$
