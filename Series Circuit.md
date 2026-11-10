@@ -6,3 +6,5 @@ $$I_T=I_1 = I_2 = I_3 = I_4 +\ ...$$
 $$\Sigma V =V_1+V_2+V_3+V_4+\ ...$$
 ### The sum of the individual [[Resistance]] in the [[Circuits]] will add up to the total [[Resistance]] in the [[Circuits]]
 $$\Sigma R =R_1+R_2+R_3+R_4+\ ...$$
+### [[Capacitance]]
+$$C_{T}=\frac{1}{C_{1}}+\frac{1}{C_{2}}+\frac{1}{C_{3}}+\frac{1}{C_{4}}+\dots$$

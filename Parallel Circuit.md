@@ -9,3 +9,5 @@ $$V_T=V_1 = V_2 = V_3 = V_4 =\ ...$$
 $$I_T=I_1 + I_2 + I_3 + I_4 +\ ...$$
 ### [[Resistance]] is equal to the sum of the reciprocals
 $$\frac{1}{R_T}=\frac{1}{R_1}+\frac{1}{R_2}+\frac{1}{R_3}+\frac{1}{R_4}+\ ...$$
+### [[Capacitance]]
+$$C_{T}=C_{1}+C_{2}+C_{3}+C_{4}+\dots$$
